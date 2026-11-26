@@ -1,2 +1,3 @@
-# olist-sql-data-warehouse
-End-to-end SQL data warehouse and analytics project on the Olist Brazilian e-commerce dataset (MySQL, Medallion architecture)
+# olist-sql-analysis
+
+SQL analysis of 100k orders from the Olist Brazilian e-commerce dataset: data cleaning, business questions and recommendations (MySQL)
